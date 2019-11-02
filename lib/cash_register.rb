@@ -24,6 +24,6 @@ class CashRegister
   end
 
   def apply_discount
-
+    puts self.total.to_i
   end
 end
